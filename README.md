@@ -1,6 +1,7 @@
 # musical-octo-winner
 
 Nome de cada integrante: Luiz Teixeira, Sara Márcia, Lucas couto, Sabrina Vilefort, 
+Descrição: Foi entregue as respostas das atividades anteriores. 
 
 1. O principal objetivo é organizar as tarefas e o time. Os benefícios de adotar esse processo é aumento de produtividade, qualidade dos colaboradores.
 
