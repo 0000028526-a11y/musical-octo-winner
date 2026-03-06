@@ -1,4 +1,8 @@
 # musical-octo-winner
+
+Nome de cada integrante: Sara
+(Coloquem o nome de vocês e o ultimo que colocar o nome, apague está intrução no parenteses)
+
 1. O principal objetivo é organizar as tarefas e o time. Os benefícios de adotar esse processo é aumento de produtividade, qualidade dos colaboradores.
 
 2.a)Requisito chegando por whatsapp e mudando sem registro (levantamento de requisitos)
@@ -11,7 +15,9 @@ b)De não ser eficiente
 c)backlog/lista de requisitos, critérios de aceite, plano de iteração, reuniões diárias, banco de horas, etc.
 
 4.Tarefas principais: 1. Planejamento: analisar escopo do projeto (analista de projetos), prototipar projeto(analista de projetos), validar projeto(cliente), definir funções(gerente)
+
 2.Desenvolvimento: codificar projeto(Dev), Rodar projeto(Dev)
 3. Teste: analisar/ prevenir possiveis defeitos, bugs, etc (QA)
 4. Manutenção: Corrigir falhas no projeto com base nos dados da etapa 3(Dev)
 5. Apresentação/Entrega: entrega final do projeto (gerente)
+
