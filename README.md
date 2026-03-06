@@ -1,6 +1,9 @@
 # musical-octo-winner
 
-Nome de cada integrante: Luiz Teixeira, Sara Márcia, Lucas couto, Sabrina Vilefort,
+Nome de cada integrante: Luiz Teixeira 
+                         Sara Márcia 
+                         Lucas couto
+                         Sabrina Vilefort
 
 Descrição: Foi entregue as respostas das atividades anteriores. tropa do maneiro 
 
