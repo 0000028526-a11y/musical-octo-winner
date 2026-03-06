@@ -2,7 +2,7 @@
 
 Nome de cada integrante: Sara
 (Coloquem o nome de vocês e o ultimo que colocar o nome, apague está intrução no parenteses)
-
+lucas couto
 1. O principal objetivo é organizar as tarefas e o time. Os benefícios de adotar esse processo é aumento de produtividade, qualidade dos colaboradores.
 
 2.a)Requisito chegando por whatsapp e mudando sem registro (levantamento de requisitos)
