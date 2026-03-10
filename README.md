@@ -5,7 +5,7 @@ Nome de cada integrante: Luiz Teixeira
                          Lucas couto
                          Sabrina Vilefort
                          Paulo Antonio
-                         Liberio Ribeiro
+                         Libério Ribeiro
 
 Descrição: Foi entregue as respostas das atividades anteriores. tropa do maneiro 
 
